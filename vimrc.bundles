@@ -767,4 +767,6 @@ call plug#end()
     " nnoremap <leader>y :call Yapf()<cr>
 " }}}
 
+Plug 'wakatime/vim-wakatime'
+
 "------------------------------------------- end of configs --------------------------------------------
