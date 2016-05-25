@@ -683,12 +683,6 @@ highlight SpellRare term=underline cterm=underline
 highlight clear SpellLocal
 highlight SpellLocal term=underline cterm=underline
 
-<<<<<<< HEAD
 " fix ImportError exceptions that mention PyInit_ycm_core or initycm_core
 " https://github.com/Valloric/YouCompleteMe#i-get-importerror-exceptions-that-mention-pyinit_ycm_core-or-initycm_core
 let g:ycm_server_python_interpreter = '/usr/bin/python'
-=======
-
-
-
->>>>>>> 5d740a05a50e14fa5adcabecd246f7906f93b8ad
